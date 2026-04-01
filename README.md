@@ -1,6 +1,7 @@
 # VAE-Based Audio Source Separation
 
 > MVA: Time Series course | ENS Paris-Saclay
+>
 > Authors: Pako Maxence TEKOU, Matéo Roinard--Chauvet
 
 ## Overview
@@ -53,3 +54,8 @@ Models are evaluated using standard source separation metrics: **SDR**, **SIR** 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Reference
+[1] A. Singh and T. Ogunfunmi, "An Overview of Variational Autoencoders for Source Separation,
+Finance, and Bio-Signal Applications," *Entropy*, vol. 24, no. 1, p. 55, 2022.
+https://doi.org/10.3390/e24010055
