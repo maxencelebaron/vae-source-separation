@@ -1,7 +1,7 @@
 # VAE-Based Audio Source Separation
 
 > MVA: Time Series course | ENS Paris-Saclay
-> Authors: Pako Maxence [TEKOU], Matéo Roinard--Chauvet
+> Authors: Pako Maxence TEKOU, Matéo Roinard--Chauvet
 
 ## Overview
 
